@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Title="SharePointHtmlConvertToPdfDownload" Id="eddf5af4-5f1b-4df7-8502-3a3187a4fffb" Scope="Site">
+  <ElementManifests>
+    <ElementManifest Location="SharePointHtmlConvertToPdfDownload\Elements.xml" />
+    <ElementFile Location="SharePointHtmlConvertToPdfDownload\SharePointHtmlConvertToPdfDownload.webpart" />
+  </ElementManifests>
+</Feature>

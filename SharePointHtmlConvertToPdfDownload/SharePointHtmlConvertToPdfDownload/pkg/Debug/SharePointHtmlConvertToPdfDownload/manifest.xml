@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="746cc0c0-eb46-463c-bb2b-d7d134240ed6" SharePointProductVersion="16.0">
+  <Assemblies>
+    <Assembly Location="SharePointHtmlConvertToPdfDownload.dll" DeploymentTarget="GlobalAssemblyCache">
+      <SafeControls>
+        <SafeControl Assembly="SharePointHtmlConvertToPdfDownload, Version=1.0.0.0, Culture=neutral, PublicKeyToken=fb0824e011bdb2c0" Namespace="SharePointHtmlConvertToPdfDownload.SharePointHtmlConvertToPdfDownload" TypeName="*" />
+      </SafeControls>
+    </Assembly>
+  </Assemblies>
+  <TemplateFiles>
+    <TemplateFile Location="CONTROLTEMPLATES\SharePointHtmlConvertToPdfDownload\SharePointHtmlConvertToPdfDownload\SharePointHtmlConvertToPdfDownloadUserControl.ascx" />
+  </TemplateFiles>
+  <FeatureManifests>
+    <FeatureManifest Location="SharePointHtmlConvertToPdfDownload_SharePointHtmlConvertToPdfDownload\Feature.xml" />
+  </FeatureManifests>
+</Solution>

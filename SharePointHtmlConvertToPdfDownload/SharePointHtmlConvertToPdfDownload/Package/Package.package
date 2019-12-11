@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="746cc0c0-eb46-463c-bb2b-d7d134240ed6" solutionId="746cc0c0-eb46-463c-bb2b-d7d134240ed6" resetWebServer="false" sharePointProductVersion="16.0" name="SharePointHtmlConvertToPdfDownload" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="b9fee4f4-27e6-4383-a958-88badabefbed" />
+  </features>
+</package>
